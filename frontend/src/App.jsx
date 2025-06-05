@@ -5,7 +5,7 @@ import Home from './pages/Home/Home';
 import Cart from './pages/Cart/Cart';
 import PlaceOrder from './pages/PlaceOrder/PlaceOrder';
 import Footer from './components/Footer/Footer'; // Assuming Footer is imported from here
-import LoginPopup from './components/LogInPopup/LogInPopup';
+import LoginPopup from './components/LoginPopup/LoginPopu';
 import { useState } from 'react';
 
 const App = () => {
